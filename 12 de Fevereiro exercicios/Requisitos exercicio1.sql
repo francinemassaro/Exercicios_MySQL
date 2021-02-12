@@ -1,5 +1,5 @@
 USE db_rhEmpresa;
-
+--
 CREATE TABLE tb_funcionarios ( -- Criar a tabela funcionários
 id BIGINT(5) AUTO_INCREMENT,
 nome VARCHAR(20) NOT NULL, 
